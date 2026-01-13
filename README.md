@@ -21,7 +21,7 @@ YOLOv8’s built-in tracking mechanism (based on SORT-like algorithms) enables e
 ## Install Dependencies
 pip install ultralytics opencv-python
 
-##Output
+## Output
 Live webcam feed with:
 Detected objects
 Bounding boxes
@@ -29,14 +29,14 @@ Class labels
 Confidence scores
 Unique tracking IDs
 
-##Applications
+## Applications
 Surveillance and security systems
 Traffic and pedestrian monitoring
 Autonomous driving perception
 Smart retail analytics
 Human activity analysis
 
-##Future Enhancements
+## Future Enhancements
 Support for custom-trained YOLO models
 Save output as video files
 Object counting and analytics
